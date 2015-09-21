@@ -1786,7 +1786,7 @@ var defaultValueCache = {};
  */
 var DOMProperty = {
 
-  ID_ATTRIBUTE_NAME: 'data-reactid',
+  ID_ATTRIBUTE_NAME: 'data-dh-reactid',
 
   /**
    * Checks whether a property name is a standard property.
